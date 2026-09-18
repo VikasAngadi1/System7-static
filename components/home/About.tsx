@@ -9,6 +9,7 @@
 //           <h2 className="top-heading text-4xl font-normal text-black mb-3">
 //             ABOUT US
 //           </h2>
+
 //           {/* Red underline */}
 //           <div className="w-16 h-[3px] bg-red-500"></div>
 //         </div>
